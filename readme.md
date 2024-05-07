@@ -14,7 +14,7 @@ Este proyecto es una pequeña imitación de Google Drive desarrollada utilizando
 ## Captura de Pantalla
 
 <!-- Aquí puedes insertar una captura de pantalla de tu proyecto -->
-[image](./image/home.png).
+![image](./image/home.png).
 
 ## Instalación
 
