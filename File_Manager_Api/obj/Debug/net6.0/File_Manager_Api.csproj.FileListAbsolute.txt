@@ -1,0 +1,66 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.exe
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.File_Manager_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\scopedcss\bundle\File_Manager_Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.csproj.CopyComplete
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\refint\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\File_Manager_Api\obj\Debug\net6.0\ref\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.exe
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\File_Manager_Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.File_Manager_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.File_Manager_Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\scopedcss\bundle\File_Manager_Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\refint\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Manager_Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\ref\File_Manager_Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\File_Manager\File_Manager_Api\obj\Debug\net6.0\File_Man.4FDCCFE9.Up2Date
